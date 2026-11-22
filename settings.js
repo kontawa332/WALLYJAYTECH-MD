@@ -99,7 +99,7 @@ const settings = {
   // ========== BOT CONFIGURATION ==========
   timezone: 'Africa/Lagos',
   prefix: '.',
-  ownerNumber: '2348144317152',
+  ownerNumber: '255795883079',
   commandMode: "private",
   
   // ========== API KEYS ==========
