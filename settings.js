@@ -27,7 +27,7 @@
 //Instagram: wallyjaytech
 //Telegram: t.me/wallyjaytech
 //GitHub: wallyjaytechh
-//WhatsApp: +2348144317152
+//WhatsApp: +255795883079
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@wallyjaytechy
 //   * Created By Github: wallyjaytechh.
 //   * Credit To ally jay tech
@@ -40,7 +40,7 @@
  *  WALLYJAYTECH-MD BOT SETTINGS
  * ============================================
  * 
- * BOT LANGUAGE SETTINGS:
+ * BOT LANGUAGE SETTINGS: English 
  * ----------------------
  * Change the default language by setting botLanguage to one of the codes below:
  * 
